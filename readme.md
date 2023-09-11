@@ -1,1 +1,1 @@
-This is the React course where i store my react knowledge
+Started with React
